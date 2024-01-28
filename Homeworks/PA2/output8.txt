@@ -1,0 +1,7 @@
+afternoon=ogleden-sonra
+clock=saat
+computer=bilgisayar
+fridge=buzdolabi
+mirror=ayna
+pillow=yastik
+4 word not found: book fork midnight wall

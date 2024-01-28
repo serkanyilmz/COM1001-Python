@@ -1,0 +1,3 @@
+( 40 10 ) rad: 10
+( 40 20 ) rad: 10
+Total rect area: 600

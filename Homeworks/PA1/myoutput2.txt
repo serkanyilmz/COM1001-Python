@@ -1,0 +1,2 @@
+( -40 20 ) rad: 25
+Total rect area: 2500

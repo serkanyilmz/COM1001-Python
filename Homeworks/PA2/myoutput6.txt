@@ -1,0 +1,4 @@
+clock=saat
+computer=bilgisayar
+fridge=buzdolabi
+mirror=ayna

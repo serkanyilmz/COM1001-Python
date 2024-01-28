@@ -1,0 +1,5 @@
+bir=one
+kucuk=small
+orman=forest
+tavsan=rabbit
+ziplamak=jump

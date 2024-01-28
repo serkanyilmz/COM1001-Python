@@ -1,0 +1,13 @@
+afternoon=ogleden-sonra
+clock=saat
+computer=bilgisayar
+fridge=buzdolabi
+mirror=ayna
+pillow=yastik
+wake=uyanmak
+walk=yurumek
+want=istemek
+warn=uyarmak
+wash=yikamak
+watch=izlemek
+4 word not found: book fork midnight wall

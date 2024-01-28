@@ -1,0 +1,6 @@
+clock=saat
+computer=bilgisayar
+fridge=buzdolabi
+mirror=ayna
+pillow=yastik
+3 word not found: book fork wall

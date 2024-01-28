@@ -1,0 +1,12 @@
+( 2 -1 ) rad: 1
+( -3 -2 ) rad: 1
+( 3 -2 ) rad: 1
+( -2 -1 ) rad: 1
+( 0 10 ) rad: 3
+( 3 3 ) rad: 1
+( -1 1 ) rad: 1
+( 7 -2 ) rad: 2
+( 3 2 ) rad: 1
+( -3 1 ) rad: 1
+( -5 1 ) rad: 1
+Total rect area: 88

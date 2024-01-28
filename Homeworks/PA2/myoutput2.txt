@@ -1,0 +1,5 @@
+bir=one
+gece=night
+soylemek=say
+tavsan=rabbit
+8 word not found: arkadas cok dans etmek her minik sarki var
